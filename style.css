@@ -1,0 +1,161 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+}
+a {
+  text-decoration: none;
+}
+p {
+  margin: 0;
+}
+ul {
+  margin: 0;
+  list-style: none;
+  color: black;
+}
+ul a {
+  color: black;
+}
+
+.nav-list {
+  display: flex;flex-wrap: wrap;
+  gap: 20px;
+}
+header {
+  position: sticky;z-index:99 ;
+  top: 0;
+  background-color: #fff;
+}
+header ul li a::after{
+  content: "";
+  display: block;
+  width: 0px;
+  height: 2px;
+  background-color: #f34f3f;
+ }
+ header ul li a:hover header ul li a::after{
+  width: 100%;
+}
+ ul li a{
+ transition: 0.3s;
+}
+ ul li a:hover {
+  color: #f34f3f;
+}
+.header {
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+  padding: 40px 0;
+}
+.header img {
+  width: 212px;
+}
+footer {
+  background-color: #fefaf3;
+  padding: 80px 0;
+}
+footer .container {
+  display: flex;
+}
+footer .container ul {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 0;
+}
+.sub { background: url("https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/h3-background-img.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  padding: 185px 0;
+}
+.sub .container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sub .container h3 {
+  font-size: 30px;
+  line-height: 1.4em;
+}
+.input {
+  margin-top: 20px;
+  width: 700px;
+  display: flex;
+}
+.input input {
+  width: 70%;
+  padding: 20px;
+  outline: none;
+}
+.input button {
+  width: 30%;
+  color: white;
+  background-color: #f34f3f;
+  outline: none;
+  border: none;
+}
+.filter {
+  background-color: white;
+}
+.section-two{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    margin-top: 50px;
+}
+
+.section-nav1 ul{
+    display: flex;
+    gap: 35px;
+    color: #6d6a6a;
+
+}
+.section-nav2 p i{
+    color: black;
+    
+}
+ .card img{
+    width:100%;
+}
+
+ .card{width: 280px;
+    border: none;
+    padding-bottom: 15px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.card p{
+    text-align: center;
+    margin-top: 10px;
+}
+ .card span{
+    text-align: center;
+   
+}
+.section-three{
+    padding: 40px 0 80px ;
+}
+.cards{
+    display: flex;flex-wrap: wrap;justify-content:center; gap: 30px;
+}
+
+
+.card button{
+    padding: 5px;
+    width: 100px;
+    background-color:orangered;
+    color: white;
+    margin: 0 auto;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+
+}
+.filter__btn{
+  cursor: pointer;
+}

@@ -1,0 +1,1 @@
+Fayli yukluyub " npx json-server flowers.json " by kodu yazdigdan sonra site islek hala gelecek :)

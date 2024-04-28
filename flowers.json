@@ -1,0 +1,85 @@
+
+{
+  "flowers": [
+    {
+      "id": 1,
+      "name": "SCHEFFLERA",
+      "type":"greens",
+      "price": 259,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-1-img.jpg"
+    }
+    ,
+    {
+      "id": 2,
+      "name": "WILD CACTUS",
+      "type":"cactus",
+      "price": 159,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-5-img.jpg"
+    },
+    {
+      "id": 3,
+      "name": "CACTUS IN ORANGE",
+      "type":"cactus",
+      "price": 259,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-3-img.jpg"
+    },
+    {
+      "id": 4,
+      "name": "WILD ROSES",
+      "type":"exotic",
+      "price": 259,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-7-img.jpg"
+    },
+    {
+      "id": 5,
+      "name": "COLORFUL TULIPS",
+      "type":"exotic various",
+      "price": 350,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-6-img.jpg"
+    },
+    {
+      "id": 6,
+      "name": "ROCK SOAPWORT",
+      "type":"cactus",
+      "price": 259,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-9-img.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ORANGE AMARYLLIS",
+      "type":"exotic popular",
+      "price": 259,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-2-img.jpg"
+    },
+    {
+      "id": 8,
+      "name": "SUMMER SAVORY",
+      "type":"greens",
+      "price": 259,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-8-img.jpg"
+    },
+    {
+      "id": 9,
+      "name": "PINK FLOWER TREE",
+      "type":"greens popular",
+      "price": 259,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-4-img.jpg"
+    }
+    ,
+    {
+      "id": 10,
+      "name": "FOXGLOVE FLOWER",
+      "type":"winter",
+      "price": 259,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-13-img.jpg"
+    },
+    {
+      "id": 11,
+      "name": "SWEET ALLYSUM",
+      "type":"various",
+      "price": 259,
+      "img": "https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/shop-10-img.jpg"
+    }
+  ]
+  
+} 
